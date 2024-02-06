@@ -1,0 +1,6 @@
+import io.netty.util.collection.IntObjectHashMap.MapIterator;
+public class FunctionUse10505 {
+public void funcUse() {
+MapIterator mapiterator = new MapIterator();
+}
+}

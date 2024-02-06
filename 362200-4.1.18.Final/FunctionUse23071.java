@@ -1,0 +1,6 @@
+import io.netty.util.collection.IntObjectHashMap.MapEntry;
+public class FunctionUse23071 {
+public void funcUse() {
+MapEntry mapentry = new MapEntry();
+}
+}
